@@ -1,0 +1,16 @@
+id: IA82AACBA
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:14:11.559946
+last_modified: 2023-02-10 00:14:11.560081
+source_metadata:
+  title: 'MSV 6,03: Ekottara'
+  language: bo
+bases:
+  '6811':
+    base_file: 6811.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
